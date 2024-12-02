@@ -6,9 +6,9 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/ayesh dharmasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandali malshani" height="30" width="40" /></a>
-<a href="https://fb.com/ayesh dharmasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayesh dharmasena" height="30" width="40" /></a>
-<a href="https://instagram.com/_whi.sky_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_whi.sky_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayesh dharmasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandali malshani" height="60" width="60" /></a>
+<a href="https://fb.com/ayesh dharmasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayesh dharmasena" height="60" width="60" /></a>
+<a href="https://instagram.com/_whi.sky_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_whi.sky_" height="60" width="60" /></a>
 </p>
 
 ## Languages and Tools
