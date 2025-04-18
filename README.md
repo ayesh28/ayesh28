@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Ayesh Dharmasena</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayesh28" alt="profile views">
+</p>
+
+
 - 📫 How to reach me **ayeshdharmasena28@gmail.com**
 
 ## Connect with me
